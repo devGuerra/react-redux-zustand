@@ -1,3 +1,6 @@
+![image](https://github.com/devGuerra/react-redux-zustand/assets/6579736/8b40bbb9-3a6a-4aa8-b1e5-5d83b4072f48)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
